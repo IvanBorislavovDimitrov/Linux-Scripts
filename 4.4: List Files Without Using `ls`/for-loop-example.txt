@@ -1,0 +1,6 @@
+#! /bin/bash
+clear
+files=( * )
+for file in "${files[@]}"; do  -> can be used only in the terminal
+echo "$file"
+done
