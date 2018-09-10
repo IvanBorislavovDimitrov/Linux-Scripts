@@ -1,0 +1,1 @@
+printf "First: ${VAR1}\nSecond: ${VAR2}\nThird: ${VAR3}\n"
