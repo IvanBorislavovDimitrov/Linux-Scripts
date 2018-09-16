@@ -1,0 +1,1 @@
+sed -n '/^.*an.*$/p' output1.txt

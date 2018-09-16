@@ -1,0 +1,1 @@
+sed -i -e "1,3d" output.txt | sed -i -e "1,3d" output1.txt

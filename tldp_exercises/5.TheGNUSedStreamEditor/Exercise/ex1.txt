@@ -1,0 +1,1 @@
+ls -1 | sed -n '/^.*\.sh$/p' > output.txt

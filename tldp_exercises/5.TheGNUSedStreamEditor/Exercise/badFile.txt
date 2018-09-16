@@ -1,0 +1,3 @@
+Two trailing spaces  
+Six trailing spaces      
+No trailing spaces yes
