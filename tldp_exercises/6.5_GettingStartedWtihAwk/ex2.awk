@@ -1,0 +1,1 @@
+awk 'BEGIN {FS=":"} {printf "%s=%s uid=%s\n", $0, $1, $3} NR==3{exit}' /etc/passwd
